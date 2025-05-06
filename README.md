@@ -3,11 +3,21 @@
 ###
 
 <div align="left">
-  <img src="https://www.linkedin.com/in/felix-wahyu-sejati-651bb1288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://youtube.com/@feliks7074?si=K9Q5fpuOTuAOzaRR" width="52" height="40" alt="youtube logo"  />
-  <img src="https://www.instagram.com/feliks_ws?utm_source=qr&igsh=MWdxemY5ZWNudTE1OA==" width="52" height="40" alt="instagram logo"  />
-  <img src="https://www.facebook.com/share/12HmtnH8m4r/" width="52" height="40" alt="facebook logo"  />
+<a href="#">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</a>
+<a href="#">
+<img src="https://www.linkedin.com/in/felix-wahyu-sejati-651bb1288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" width="52" height="40" alt="linkedin logo"  />
+</a>
+<a href="#">
+ <img src="https://youtube.com/@feliks7074?si=K9Q5fpuOTuAOzaRR" width="52" height="40" alt="youtube logo"  />
+</a>
+<a href="#">
+<img src="https://www.instagram.com/feliks_ws?utm_source=qr&igsh=MWdxemY5ZWNudTE1OA==" width="52" height="40" alt="instagram logo"  />
+</a>
+<a href="#">
+<img src="https://www.facebook.com/share/12HmtnH8m4r/" width="52" height="40" alt="facebook logo"  />
+</a>
 </div>
 
 ###
