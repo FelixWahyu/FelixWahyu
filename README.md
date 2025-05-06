@@ -1,22 +1,22 @@
-<h3 align="left">Hello My name is Felix Wahyu Sejati and I'm Web Developer</h3>
+<h3 align="center" style="background: skyblue; padding-left: 2rem; padding-right: 2rem; padding-top: 0.5rem; padding-bottom: 0.5rem; border-radius: 8px;">Hello My name is Felix Wahyu Sejati and I'm Web Developer</h3>
 
 ###
 
 <div align="left">
-<a href="#">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+<a href="https://www.linkedin.com/in/felix-wahyu-sejati-651bb1288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </a>
-<a href="#">
-<img src="https://www.linkedin.com/in/felix-wahyu-sejati-651bb1288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" width="52" height="40" alt="linkedin logo"  />
+
+<a href="https://youtube.com/@feliks7074?si=K9Q5fpuOTuAOzaRR">
+ <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </a>
-<a href="#">
- <img src="https://youtube.com/@feliks7074?si=K9Q5fpuOTuAOzaRR" width="52" height="40" alt="youtube logo"  />
+
+<a href="https://www.instagram.com/feliks_ws?utm_source=qr&igsh=MWdxemY5ZWNudTE1OA==">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </a>
-<a href="#">
-<img src="https://www.instagram.com/feliks_ws?utm_source=qr&igsh=MWdxemY5ZWNudTE1OA==" width="52" height="40" alt="instagram logo"  />
-</a>
-<a href="#">
-<img src="https://www.facebook.com/share/12HmtnH8m4r/" width="52" height="40" alt="facebook logo"  />
+
+<a href="https://www.facebook.com/share/12HmtnH8m4r/">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
 </a>
 </div>
 
