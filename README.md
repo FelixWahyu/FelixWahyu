@@ -1,16 +1,16 @@
-<h1 align="center">Hello!, I'm Felix Wahyu Sejati 👋</h1>
+<h1 align="center">Hello!, I'm Felix Wahyu Sejati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<p align="left">Hi! I'm a software developer and data analyst. with a passion for technology and problem-solving, I bridge the gap between software development and data analysis. I believe in creating not just functional systems, but ones that make a real impact whether it's through elegant design or smart algorithms. My goal is to keep growing, keep building, and keep making a difference through code and data.</p>
+<p align="left">With a passion for technology and problem-solving, I bridge the gap between software development and data analysis. I believe in creating not just functional systems, but ones that make a real impact whether it's through elegant design or smart algorithms. My goal is to keep growing, keep building, and keep making a difference through code and data.</p>
 
 ###
 
-<h3 align="left">⚡ Programming & Analytics Performance</h3>
+<h2 align="left">⚡ Programming & Analytics Performance</h2>
 
 ###
 
@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="" alt="csharp logo"  />
   <img width="8" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="" alt="nodejs logo"  />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="" alt="dot-net logo"  />
 </div>
 
 ###
@@ -59,7 +60,15 @@
   <img width="8" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="" alt="laravel logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="" alt="vuejs logo"  />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="" alt="jquery logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="" alt="sass logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="" alt="nodejs logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="" alt="npm logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="" alt="vite logo"  />
 </div>
 
 ###
@@ -89,6 +98,7 @@
   <img width="8" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="" alt="mongodb logo"  />
   <img width="8" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="" alt="prisma logo"  />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="" alt="kaggle logo"  />
 </div>
 
