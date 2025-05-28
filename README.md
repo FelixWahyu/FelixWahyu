@@ -32,17 +32,17 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="" alt="html5 logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="" alt="css3 logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="" alt="javascript logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="" alt="php logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="" alt="cplusplus logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="" alt="csharp logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="" alt="dot-net logo"  />
 </div>
 
@@ -54,19 +54,19 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="" alt="bootstrap logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="" alt="tailwindcss logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="" alt="laravel logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="" alt="jquery logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="" alt="sass logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="" alt="nodejs logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="" alt="npm logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="" alt="vite logo"  />
 </div>
 
@@ -78,9 +78,9 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="" alt="pandas logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="" alt="numpy logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="" alt="python logo"  />
 </div>
 
@@ -92,13 +92,13 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="" alt="mysql logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="" alt="sqlite logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="" alt="mongodb logo"  />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="" alt="prisma logo"  />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="" alt="kaggle logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="" alt="prisma logo" width="4" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="" alt="kaggle logo" />
 </div>
 
 ###
@@ -109,13 +109,13 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="" alt="git logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="" alt="vscode logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="" alt="githubactions logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="" alt="github logo"  />
-  <img width="8" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="" alt="figma logo"  />
 </div>
 
