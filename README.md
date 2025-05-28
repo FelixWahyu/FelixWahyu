@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
@@ -43,7 +43,6 @@
   <img width="8" />
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="" alt="csharp logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="" alt="nodejs logo"  />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="" alt="dot-net logo"  />
 </div>
 
