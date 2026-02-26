@@ -1,22 +1,14 @@
-<h1 align="center">Hello!, I'm Felix Wahyu Sejati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+![](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a3d62,100:007cf0&height=150&text=Hello,%20I'm%20Felix%20Wahyu%20Sejati&fontSize=50&fontColor=fbe400&fontShadow=true&fontAlignY=45&animation=twinkling&desc=Web%20Development&descSize=30&descAlignY=85&section=header)
 
-###
+A Bachelor of Information Systems graduate from STIKOM Yos Sudarso Purwokerto and a web developer based in Purwokerto, Central Java. I am passionate about building digital solutions that not only function well but also provide real value to users and businesses. Throughout my career, I have developed various website platforms using modern technologies.
 
-<h3 align="left">About Me</h3>
+Skills: LARAVEL / REACT / PHP / JS
 
-###
+- 🌱 I’m currently learning React TypeScript and Next.Js
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like playing games but I also learn things like how to solve puzzles in games, strategies and simulations.
 
-<p align="left">With a passion for technology and problem-solving, I bridge the gap between software development and data analysis. I believe in creating not just functional systems, but ones that make a real impact whether it's through elegant design or smart algorithms. My goal is to keep growing, keep building, and keep making a difference through code and data.</p>
-
-###
-
-<h2 align="left">Programming & Analytics Performance</h2>
-
-###
-
-<div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixWahyu)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.felixws.my.id)
 
 ###
 
@@ -76,13 +68,5 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="" alt="instagram logo"  />
 </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelixWahyu/FelixWahyu/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelixWahyu/FelixWahyu/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FelixWahyu/FelixWahyu/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
