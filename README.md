@@ -47,23 +47,23 @@ A Bachelor of Information Systems graduate from STIKOM Yos Sudarso Purwokerto an
 ###
 
 <div align="left">
-<a href="https://www.linkedin.com/in/felix-wahyu-sejati-651bb1288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<a href="https://www.linkedin.com/in/felix-wahyu-sejati" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="" alt="linkedin logo"  />
 </a>
 
-<a href="https://www.instagram.com/felixwebdev?utm_source=qr&igsh=NnBtenBuNWQxanA1">
+<a href="https://www.instagram.com/felixwebdev?utm_source=qr&igsh=NnBtenBuNWQxanA1" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="" alt="instagram logo"  />
 </a>
 
-<a href="https://discord.com/channels/@me">
+<a href="https://discord.com/channels/@me" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="" alt="discord logo"  />
 </a>
 
-<a href="https://wa.me/6285869906592">
+<a href="https://wa.me/6285869906592" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="" alt="whatsapp logo"  />
 </a>
 
-<a href="https://www.facebook.com/share/12HmtnH8m4r/">
+<a href="https://www.facebook.com/share/12HmtnH8m4r/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="" alt="facebook logo"  />
 </a>
 </div>
