@@ -2,8 +2,6 @@
 
 A Bachelor of Information Systems graduate from STIKOM Yos Sudarso Purwokerto and a web developer based in Purwokerto, Central Java. I am passionate about building digital solutions that not only function well but also provide real value to users and businesses. Throughout my career, I have developed various website platforms using modern technologies.
 
-Skills: LARAVEL / REACT / PHP / JS
-
 - 🌱 I’m currently learning React TypeScript and Next.Js
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like playing games but I also learn things like how to solve puzzles in games, strategies and simulations.
@@ -14,7 +12,7 @@ Skills: LARAVEL / REACT / PHP / JS
 
 ###
 
-<h2 align="left">My Tech Stack</h2>
+<h2 align="left">My Programming Skills</h2>
 
 ###
 
@@ -34,17 +32,12 @@ Skills: LARAVEL / REACT / PHP / JS
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="" alt="vite logo"  />
   <img width="4" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="" alt="react logo"  />
-</div>
-
-###
-
-<div align="left">
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="" alt="nextjs logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="" alt="mysql logo"  />
   <img width="4" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="" alt="sqlite logo"  />
-  <img width="4" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="" alt="mongodb logo"  />
-  <img width="4" />
 </div>
 
 ###
@@ -58,16 +51,20 @@ Skills: LARAVEL / REACT / PHP / JS
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="" alt="linkedin logo"  />
 </a>
 
-<a href="https://youtube.com/@feliks7074?si=K9Q5fpuOTuAOzaRR">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="" alt="youtube logo"  />
+<a href="https://www.instagram.com/felixwebdev?utm_source=qr&igsh=NnBtenBuNWQxanA1">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="" alt="instagram logo"  />
+</a>
+
+<a href="https://discord.com/channels/@me">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="" alt="discord logo"  />
+</a>
+
+<a href="https://wa.me/6285869906592">
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="" alt="whatsapp logo"  />
 </a>
 
 <a href="https://www.facebook.com/share/12HmtnH8m4r/">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="" alt="facebook logo"  />
-</a>
-
-<a href="https://www.instagram.com/felixwebdev?utm_source=qr&igsh=NnBtenBuNWQxanA1">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="" alt="instagram logo"  />
 </a>
 </div>
 
