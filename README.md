@@ -29,11 +29,13 @@ A Bachelor of Information Systems graduate from STIKOM Yos Sudarso Purwokerto an
   <img width="4" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="" alt="nodejs logo"  />
   <img width="4" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="" alt="vite logo"  />
-  <img width="4" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="" alt="react logo"  />
   <img width="4" />
+  <img src="https://img.shields.io/badge/TypeScript-3174C6?logo=typescript&logoColor=white&style=for-the-badge" height="" alt="typescript logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="" alt="nextjs logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="" alt="vite logo"  />
   <img width="4" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="" alt="mysql logo"  />
   <img width="4" />
@@ -51,7 +53,7 @@ A Bachelor of Information Systems graduate from STIKOM Yos Sudarso Purwokerto an
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="" alt="linkedin logo"  />
 </a>
 
-<a href="https://www.instagram.com/felixwebdev?utm_source=qr&igsh=NnBtenBuNWQxanA1" target="_blank">
+<a href="https://www.instagram.com/felixdev.id" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="" alt="instagram logo"  />
 </a>
 
