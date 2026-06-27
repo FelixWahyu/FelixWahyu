@@ -1,10 +1,8 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a3d62,100:007cf0&height=150&text=Hello,%20I'm%20Felix%20Wahyu%20Sejati&fontSize=50&fontColor=fbe400&fontShadow=true&fontAlignY=45&animation=twinkling&desc=Web%20Development&descSize=30&descAlignY=85&section=header)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a3d62,100:007cf0&height=150&text=Hello,%20I'm%20Felix&fontSize=50&fontColor=fbe400&fontShadow=true&fontAlignY=45&animation=twinkling&desc=Fullstack%20Developer&descSize=30&descAlignY=85&section=header)
 
-A Bachelor of Information Systems graduate from STIKOM Yos Sudarso Purwokerto and a web developer based in Purwokerto, Central Java. I am passionate about building digital solutions that not only function well but also provide real value to users and businesses. Throughout my career, I have developed various website platforms using modern technologies.
+A Bachelor's degree in Information Systems from STIKOM Yos Sudarso Purwokerto, specializing in website development. I have a strong passion for continuously learning new things, particularly in the field of software development. I not only build systems that function well and meet needs, but also strive to provide solutions that effectively solve user and business problems, are easy to maintain, and are ready to evolve with changing needs. I'm committed to staying up-to-date on technological developments. I'm currently exploring React, TypeScript, Microservices Architecture, and utilizing Artificial Intelligence (AI) to improve productivity and efficiency in software development.
 
-- 🌱 I’m currently learning React TypeScript and Next.Js
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like playing games but I also learn things like how to solve puzzles in games, strategies and simulations.
+- Fun fact: I enjoy strategy and puzzle games because they encourage logical thinking, problem-solving, and decision-making. I also apply this mindset to software development, from analyzing problems to designing appropriate solutions.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.felixws.my.id)
 
@@ -12,7 +10,7 @@ A Bachelor of Information Systems graduate from STIKOM Yos Sudarso Purwokerto an
 
 ###
 
-<h2 align="left">My Programming Skills</h2>
+<h2 align="left">My Tech Stack</h2>
 
 ###
 
@@ -63,10 +61,6 @@ A Bachelor of Information Systems graduate from STIKOM Yos Sudarso Purwokerto an
 
 <a href="https://wa.me/6285869906592" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="" alt="whatsapp logo"  />
-</a>
-
-<a href="https://www.facebook.com/share/12HmtnH8m4r/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="" alt="facebook logo"  />
 </a>
 </div>
 
