@@ -4,8 +4,6 @@ A Bachelor's degree in Information Systems from STIKOM Yos Sudarso Purwokerto, s
 
 - Fun fact: I enjoy strategy and puzzle games because they encourage logical thinking, problem-solving, and decision-making. I also apply this mindset to software development, from analyzing problems to designing appropriate solutions.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.felixws.my.id)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixWahyu)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
